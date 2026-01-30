@@ -1,0 +1,10 @@
+# Ignorer les modèles lourds
+TP1/models/
+
+# Ignorer les fichiers temporaires et cache Python
+TP1/src/__pycache__/
+__pycache__/
+*.pyc
+
+# Ignorer l'installeur
+Miniforge3-Linux-x86_64.sh
